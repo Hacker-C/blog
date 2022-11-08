@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+.vscode
+dist
+dist-ssr
+*.local
+.idea
+pnpm-lock.yaml
+smartmontools.md
+zsh_history.md
+/package-lock.json
+origin_theme.css
+*page_*.md
+index.md
