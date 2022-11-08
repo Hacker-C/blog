@@ -14,7 +14,7 @@ async function config() {
       website: 'https://github.com/Hacker-C/myblog', //copyright link
       // 评论的仓库地址
       comment: {
-        repo: 'airene/vitepress-blog-pure',
+        repo: 'Hacker-C/blog',
         themes: 'github-light',
         issueTerm: 'pathname'
       },
@@ -26,7 +26,7 @@ async function config() {
       ],
       //outline:[2,3],
       outlineTitle: '文章摘要',
-      socialLinks: [{ icon: 'github', link: 'https://github.com/airene/vitepress-blog-pure' }],
+      socialLinks: [{ icon: 'github', link: 'https://github.com/Hacker-C/blog' }],
     },
     srcExclude: ['README.md'], // exclude the README.md , needn't to compiler
 
