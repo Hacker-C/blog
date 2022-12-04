@@ -1,6 +1,8 @@
 <template>
   <div class="site-footer">
-    MIT Licensed | Copyright © 2021-2022 <a class="vitepress" :href="website" target="_blank">{{ webTitle }}</a><br />
+    Copyright © 2019-present <a :href="website" target="_blank">{{ webTitle }}</a>
+    |
+    <a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备 2022004296号</a>
   </div>
 </template>
 <script lang="ts" setup>
