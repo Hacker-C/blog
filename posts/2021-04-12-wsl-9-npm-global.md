@@ -15,7 +15,7 @@ tags:
 
 在使用 npm 全局安装一个工具 gulp 的时候，遇到了一个报错：
 
-```txt
+```
 npm ERR! EACCES permissions errors when installing packages globally
 npm ERR! It is likely you do not have the permissions 
 to access this file as the current user.
@@ -35,30 +35,30 @@ to access this file as the current user.
 
 1. 在用户根目录 `~` 新建 `.npm-global` 文件夹（名字可以自取），然后进行修改。
 
-    ```txt
+    ```
     mkdir ~/.npm-global
     ```
 
 2. 设置 npm 全局安装位置为刚才所创建的文件夹 `.npm-global`
 
-    ```txt
+    ```
     npm config set prefix '~/.npm-global'
     ```
 
 3. 修改环境变量以保证可以正常使用所安装的软件。
     使用 vim 或者其他编辑器 打开编辑 `~/.profile`（若没有这个文件，则创建一个，同名）
 
-    ```txt
+    ```
     vim ~/.profile
     ```
 
     在最后加上这一行：
-    ```txt
+    ```
     export PATH=~/.npm-global/bin:$PATH
     ```
 4. 刷新配置文件，让配置生效。
 
-    ```txt
+    ```
     source ~/.profile
     ```
 5. 重新使用 npm 全局安装之前失败的软件，查看是否解决问题。
@@ -69,7 +69,7 @@ to access this file as the current user.
 
 编辑 `~/.zshrc`，添加下面这一行：
 
-```txt
+```
 source ~/.profile
 ```
 
