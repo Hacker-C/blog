@@ -92,19 +92,19 @@ h3 {
   max-width: 1800px !important;
 }
 
-/* 使用自定义组件 Catalog.vue */
+/* 取消使用自定义组件 Catalog.vue */
 .VPDoc .aside {
-  display: none !important;
+  /* display: none !important; */
 }
 
 /* when witdh less 1440 hide the aside*/
-/* @media(min-width:1280px) {
+@media(min-width:1280px) {
   .VPDoc .aside {
     display: none !important;
   }
 }
 
-@media(min-width:1440px) {
+@media(min-width:1320px) {
   .VPDoc:not(.has-sidebar) .content {
     max-width: inherit !important;
   }
@@ -112,7 +112,7 @@ h3 {
   .VPDoc .aside {
     display: block !important;
   }
-} */
+}
 
 @media (min-width: 768px) {
   .VPDoc {

@@ -1,7 +1,7 @@
 <template>
   <Layout />
   <Copyright />
-  <Catalog /> 
+  <!-- <Catalog />  -->
 </template>
 <script lang="ts" setup>
 import DefaultTheme from 'vitepress/theme'
