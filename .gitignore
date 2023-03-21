@@ -12,3 +12,5 @@ zsh_history.md
 origin_theme.css
 *page_*.md
 index.md
+.vitepress/cache
+
