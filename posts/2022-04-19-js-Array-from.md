@@ -9,6 +9,8 @@ author: 'MurphyChen'
 header-img: /img/js.png
 ---
 
+# Array.from() 的妙用
+
 ## 前置知识
 
 `Array.from()` 接收一个类数组，或者一个可迭代对象（包括数组、Map 等），然后创建一个新的数组，并返回该新数组。

@@ -9,6 +9,8 @@ author: "MurphyChen"
 header-img: https://cdn.jsdelivr.net/gh/Hacker-C/Picture-Bed@main/FrontEnd/js1.192lrbbkjc74.png
 ---
 
+# 深入理解 JavaScript 声明提升
+
 ## 1. 前言
 
 JS 引擎在在执行 JavaScript 前会有预编译，JS 预编译时会把 JS 中的 `var` 变量声明和 `function` 函数声明提前至当前作用域的最前面。

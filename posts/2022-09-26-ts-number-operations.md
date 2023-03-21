@@ -9,6 +9,8 @@ author: 'MurphyChen'
 header-img: /img/ts.jpg
 ---
 
+# TS 实现四则运算
+
 ## 背景
 
 事情起源于一道 TS 类型体操 [IndexOf](https://github.com/type-challenges/type-challenges/blob/main/questions/05153-medium-indexof/README.md)，我的第一思路就是递归遍历每一个元素，然后判断是否为目标元素。但是有个问题，TS 不支持一个数字类型的增减，也就是说 `type n = 2 - 1` 这种操作是不被允许的。

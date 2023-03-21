@@ -1,5 +1,5 @@
 ---
-title: 从一张表情包浅析JS的特性
+title: 从一张表情包浅析 JS 的特性
 date: 2022-03-24 12:01:06
 tags:
   - JavaScript
@@ -8,6 +8,8 @@ description: 'JS 中 奇怪的行为'
 author: 'MurphyChen'
 header-img: /img/js.png
 ---
+
+# 从一张表情包浅析 JS 的特性
 
 正式阅读本文之前，先来做做下面这个 JS 测试吧！第一次做的时候你可能不及格，但看完本文后相信你可以拿到很高的分数。
 

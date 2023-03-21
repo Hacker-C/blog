@@ -11,6 +11,8 @@ header-img: https://s3.ax1x.com/2021/02/14/yyRtMV.png
 
 ---
 
+# 学生邮箱白嫖正版专业版JetBrains全家桶
+
 ## 前言
 
 学 Java 的人都应该知道 Intellij IDEA——一个强大的用于 java 开发的 IDE。但是这对普通人要收费，是一笔不小的费用。如果你是在校大学生，那么就可以申请 IDEA 的免费使用。JetBrains 系列是一套强大好用的 IDE，IDEA 只是其中之一，只要申请了一次之后就可以用申请的账号 **白嫖 JetBrains 的包括 IDEA 在内其他所有 Professional（专业版）IDE（Intellij IDEA、Clion、Pycharm）。**

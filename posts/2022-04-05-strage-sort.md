@@ -9,6 +9,8 @@ author: 'MurphyChen'
 header-img: /img/js.png
 ---
 
+# JS实现三种脑洞大开的奇葩排序算法
+
 这次我们要讲的不是正经的冒泡排序、快排、堆排序之类的，而是三种奇葩的算法：
 
 1. 睡眠排序（SleepSort）

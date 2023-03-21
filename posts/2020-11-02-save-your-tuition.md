@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "教育优惠·你的学费赚回计划"
+title: "教育优惠——你的学费赚回计划"
 description: "各大厂商给学生的教育优惠汇总，不看血亏。"
 date: 2021-11-02 21:40:00
 author: "MurphyChen"
@@ -8,6 +8,8 @@ header-img: https://cdn.jsdelivr.net/gh/Hacker-C/Picture-Bed@main/blog/blog1.5hu
 tags:
   - 开发技巧
 ---
+
+# 教育优惠——你的学费赚回计划
 
 如果你是一个在校计算机系的或者其他专业但在学习计算机编程相关技术的学生，那么一定知道一些非常好用的编程开发工具，例如 JetBrains 系列（IDEA，Pycharm等）、Navicat等。但由于我们还是学生，根本负担不起昂贵的费用。
 

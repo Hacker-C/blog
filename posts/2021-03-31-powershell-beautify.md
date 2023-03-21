@@ -11,6 +11,8 @@ author: "MurphyChen"
 header-img: https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/pl1.png
 ---
 
+# Windows Powershell 美化：oh-my-posh 方案
+
 ## 0. 前言
 
 之前写了一个关于 WSL 的配置和使用教程，用着很香。后来有时候需要用到 Powershell，但是 Windows10 自带的 Powershell 太丑了，于是决定美化一下终端。最终效果如下所示：

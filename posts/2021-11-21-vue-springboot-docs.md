@@ -9,6 +9,8 @@ description: "个人记录的一个前后端相关配置文档，开发时方便
 author: "MurphyChen"
 ---
 
+# Vue + SpringBoot 前后端分离开发手册
+
 ## 1. SpringBoot
 
 Spring Boot 是基于 Spring 的一套全新的开源框架，去除了大量的 XML 配置文件，大大简化 Spring 应用的搭建和开发过程，简化了复杂的依赖管理。

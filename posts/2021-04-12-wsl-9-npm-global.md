@@ -9,6 +9,8 @@ tags:
   - WSL
 ---
 
+# 玩转WSL(9)之修改 npm 全局安装位置
+
 ## 前言
 
 > 本文适用于 WSL 的 oh-my-zsh 终端环境。

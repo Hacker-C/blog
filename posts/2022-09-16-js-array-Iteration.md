@@ -9,6 +9,8 @@ author: 'MurphyChen'
 header-img: /img/js.png
 ---
 
+# 关于 JS 数组遍历的一些细节
+
 ## 1. 空位处理规则
 
 ES6 新增的数组扩展至有这么一项，对于数组空位统一处理为 `undefined`。这意味着 ES5 的一些数组方法，不会去处理数组空位项，下面是个典型例子：

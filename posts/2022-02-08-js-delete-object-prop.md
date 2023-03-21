@@ -9,6 +9,8 @@ author: "MurphyChen"
 header-img: https://cdn.jsdelivr.net/gh/Hacker-C/Picture-Bed@main/FrontEnd/js1.192lrbbkjc74.png
 ---
 
+# JavaScript 删除对象属性
+
 ## 需求
 
 有下面一个对象，现在有一个需求，要删除该对象的 `age` 属性。
