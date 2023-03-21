@@ -8,4 +8,4 @@ aside: false
 
 A frontend developer.
 
-More about me 👉 mphy.me
+More about me 👉 [mphy.me](https://mphy.me)
