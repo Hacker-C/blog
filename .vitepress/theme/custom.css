@@ -27,6 +27,11 @@
 .vp-doc a {
   color: var(--vp-c-text-1);
   font-weight: 500;
+  border-bottom: none !important;
+ }
+
+.vp-doc a:hover {
+  color: var(--vp-c-text-1) !important;
 }
 
 .title {
