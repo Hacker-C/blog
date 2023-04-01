@@ -30,10 +30,6 @@
   border-bottom: none !important;
  }
 
-.vp-doc a:hover {
-  color: var(--vp-c-text-1) !important;
-}
-
 .title {
   color: var(--vp-c-text-1);
   font-size: 1.8rem !important;
