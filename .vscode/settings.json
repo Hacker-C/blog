@@ -1,0 +1,5 @@
+{
+  "files.exclude": {
+    "page_*.md": true
+  }
+}

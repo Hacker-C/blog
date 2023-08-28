@@ -1,7 +1,7 @@
 const { getPosts, generatePaginationPages } = require('./theme/serverUtils')
 
 async function config() {
-  const pageSize = 5
+  const pageSize = 10
   await generatePaginationPages(pageSize)
   return {
     title: 'MurphyChen\'s Blog',
