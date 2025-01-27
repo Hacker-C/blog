@@ -12,6 +12,11 @@ pnpm install
 pnpm dev
 ```
 
+Create a new article:
+```
+npm run create:md -- your_title
+```
+
 👉 http://localhost:5000
 
 ## Deploy

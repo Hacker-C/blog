@@ -25,7 +25,7 @@ async function config() {
         { text: 'About', link: '/pages/about' }
       ],
       //outline:[2,3],
-      outlineTitle: '文章摘要',
+      outlineTitle: '目录',
       socialLinks: [{ icon: 'github', link: 'https://github.com/Hacker-C/blog' }],
     },
     srcExclude: ['README.md'], // exclude the README.md , needn't to compiler

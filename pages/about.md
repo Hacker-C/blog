@@ -6,6 +6,6 @@ aside: false
 ---
 # About me
 
-A frontend developer.
+A full stack developer.
 
-More about me 👉 [mphy.me](https://mphy.me)
+More about me 👉 [mphy.top](https://mphy.top)

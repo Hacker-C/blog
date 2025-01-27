@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vitepress dev --host 0.0.0.0",
     "build": "vitepress build",
-    "serve": "vitepress serve"
+    "serve": "vitepress serve",
+    "create:md": "node scripts/createMd.js"
   },
   "keywords": ["blog"],
   "author": "",
