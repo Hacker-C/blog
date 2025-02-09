@@ -147,8 +147,8 @@ function ProgressWrapper({ children }) {
 
 ## 总结
 
-*   React Elements 是描述 UI 的，本质是一个**普通的 JavaScript 对象**，通过 `React.createElement` 或 JSX 语法创建，描述了一个 DOM 节点或组件实例。
-*   React Components 是可复用的代码块，用来定义 UI 的逻辑和结构，可以返回一个或多个 React 元素。
-*   **当 React 元素作为 props 传递给组件时，即使组件因状态更新而 re-render，这些作为 props 传递的元素也不会重新渲染，因为数据源没变。**
+*   React Elements 是描述 UI 的，本质是一个**普通的 JavaScript 对象**，通过 `React.createElement` 或 JSX 语法创建，描述了一个 DOM 节点或组件实
+*   React Components 是可复用的代码块，用来定义 UI 的逻辑和结构，可以返回一个或多个 React 元素
+*   **当 React 元素作为 props 传递给组件时，即使组件因状态更新而 re-render，这些作为 props 传递的元素也不会重新渲染，因为数据源没变**
 
 
